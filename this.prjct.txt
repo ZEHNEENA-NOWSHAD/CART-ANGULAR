@@ -1,0 +1,12 @@
+
+
+
+
+
+
+                   E COMMERCE WEBSITE
+
+               Front End : Using ANGULAR       
+
+   1. Create angular project - using ng new prjct-name(cart)          
+   2.
